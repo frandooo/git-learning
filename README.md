@@ -1,4 +1,2 @@
 # git-learning
-sadfasfsa
-小王提交了
-asdfas
+原始版本
